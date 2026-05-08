@@ -1,0 +1,27 @@
+# Worker internals
+pid
+role
+worker.log
+SPEC.txt
+TASK.txt
+
+# Proposal files — MinIO only, NOT GitHub
+PROPOSAL.md
+COVER_LETTER.txt
+
+# Environment files
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.eggs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
